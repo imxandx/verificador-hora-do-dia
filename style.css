@@ -1,0 +1,42 @@
+body {
+    background: rgb(40, 40, 40);
+    font: normal 15pt Arial;
+}
+
+header {
+    color: #f2f2f2f2;
+    text-align: center;
+    margin-top: 10%;
+}
+
+section {
+    background: #f2f2f2f2;
+    border-radius: 8px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px #00000083;
+}
+
+div {
+    text-align: center;
+    padding: 9px;
+}
+
+footer {
+    color: #f2f2f2f2;
+    text-align: center;
+    font-style: italic;
+}
+
+#foto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#imagem {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
